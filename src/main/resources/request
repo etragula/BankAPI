@@ -1,0 +1,8 @@
+http://localhost:8080/user/showCards?id=3
+http://localhost:8080/user/showCards?accountNumber=40817810216341000004
+
+http://localhost:8080/user/showBalance?id=3
+http://localhost:8080/user/showBalance?accountNumber=40817810216341000004
+
+http://localhost:8080/office/showIndParty?id=
+http://localhost:8080/office/showIndParty?phone=+7

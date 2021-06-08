@@ -1,0 +1,15 @@
+# Files Ignoring
+*.iml
+*.log
+*.jar
+*.war
+*.log
+workspace.xml
+
+# Folders Ignoring
+.allure
+.idea
+build
+target
+shelf
+
